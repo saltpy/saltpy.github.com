@@ -58,6 +58,36 @@ ul.posts span {
     font-size: 80%;
 }
 
+.container {
+    overflow:auto;
+    width:100%;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.row {
+    width:100%;
+    overflow:hidden;
+}
+
+.row li {
+    line-height:1.75em;
+    float:left;
+    display:inline;
+}
+
+#double li {
+    width: 50%;
+}
+
+#triple li {
+    width:33.333%;
+}
+
+#quad li {
+    width:25%;
+}
+
 .site {
     font-size: 110%;
     text-align: justify;
