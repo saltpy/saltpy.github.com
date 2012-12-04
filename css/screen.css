@@ -59,33 +59,33 @@ ul.posts span {
 }
 
 .container {
-    overflow:auto;
+    overflow:auto
     width:100%;
-    text-align:center;
     margin-bottom:20px;
-}
-
-.row {
-    width:100%;
-    overflow:hidden;
 }
 
 .row li {
     line-height:1.75em;
-    float:left;
     display:inline;
+    float:left;
 }
 
-#double li {
-    width: 50%;
+.cols4 {
+    text-align:center;
+    overflow:hidden;
+    width:25%;
 }
 
-#triple li {
+.cols3 {
+    text-align:center;
+    overflow:hidden;
     width:33.333%;
 }
 
-#quad li {
-    width:25%;
+.cols2 {
+    text-align:center;
+    overflow:hidden;
+    width:50%;
 }
 
 .site {
