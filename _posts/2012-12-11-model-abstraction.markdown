@@ -6,7 +6,7 @@ title: Model Abstraction
 {{ page.title }}
 ================
 
-<p class="meta">11 Dec 2012 Leeds, UK</p>
+<p class="meta">11 Dec 2012 - Leeds, UK</p>
 
 Programs are data and operations on data. Everything that is valuable seems to be in linking those things. Building that abstraction between operations and data in a way that is efficent for rapid development and exposes the right things to test is very hard. Model objects can help by providing hooks to hang assertions on. 
 
